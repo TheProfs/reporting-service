@@ -44,7 +44,7 @@ $ npm test
 
 The MIT License
 
-### Disclaimers
+## Disclaimers
 
 Project logo is from [icons8.com][icons-8]
 
