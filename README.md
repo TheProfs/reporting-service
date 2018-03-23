@@ -1,7 +1,7 @@
 ![][logo]
 
 # reporting-service
-Node.js ReSTful API for all things reporting
+> Node.js ReSTful API for all things reporting
 
 ## Installation
 
