@@ -3,6 +3,8 @@
 # reporting-service
 > Node.js ReSTful API for all things reporting
 
+[![Build Status](https://travis-ci.org/TheProfs/reporting-service.svg?branch=master)](https://travis-ci.org/TheProfs/reporting-service)
+
 ## Installation
 
 ```bash
