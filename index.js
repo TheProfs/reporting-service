@@ -11,6 +11,11 @@ app.set('port', (process.env.PORT || 5004))
 
 // body
 
+app.post('/report/bug', (req, res) => {
+  console.log(req.body)
+
+  res.sendStatus(400)
+})
 
 // end body
 
