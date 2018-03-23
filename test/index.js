@@ -12,6 +12,7 @@ describe('POST: /report/bug', () => {
     return chai.request(app)
       .post('/report/bug')
       .send({
+        name: 'This message was posted via the automated API Tests. Please Ignore.',
         foo: 'hello',
         bar: 'world'
       })
