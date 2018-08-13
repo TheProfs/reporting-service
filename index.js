@@ -41,7 +41,7 @@ app.post('/report/bug', async (req, res) => {
   try {
     await web.chat.postMessage({
        // @NOTE: Send to #bp-bug-reporter channel.
-      channel: 'C9VV17C6T',
+      channel: 'CC8N63UCE',
       // @NOTE: Wrap in backticks so it shows up as a code snippet in Slack.
       text: `\`\`\`${JSON.stringify(req.body, null, 4)}\`\`\``
     })
